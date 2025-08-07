@@ -1,0 +1,21 @@
+# Ambiente Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Arquivos de ambiente
+.env
+
+# Dados temporários
+*.log
+*.tmp
+*.cache
+.DS_Store
+
+# Jupyter e notebooks
+.ipynb_checkpoints/
+
+# Arquivos de exportação
+*.pdf
+*.html

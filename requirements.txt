@@ -1,0 +1,7 @@
+spade
+fastapi
+uvicorn
+beautifulsoup4
+requests
+loguru
+python-dotenv
